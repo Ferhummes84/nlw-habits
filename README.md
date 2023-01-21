@@ -43,4 +43,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 151d5a0d016e947341083a543440e4340cda51f7
